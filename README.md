@@ -40,6 +40,7 @@ Este é projeto desenvolvido como parte do desafio **Oracle Next Education (ONE)
 - **API ExchangeRate (v6)** - Fornecimento de taxas de câmbio atualizadas
 - **Biblioteca Gson** - Manipulação de dados em formato JSON
 - **HttpClient do Java** - Realização de requisições HTTP para API
+- **IntelliJ** - IDE para compilar e executar a aplicação
 
 ## 📊 Exemplo de Uso
 
@@ -82,9 +83,6 @@ O projeto utiliza a API ExchangeRate (v6) para obter taxas de câmbio atualizada
 
 Oracle/Alura e ao programa Talentos do futuro pela oportunidade e desafio proposto.
 
-<div align="center">
-
-Desenvolvido com ❤️
 
 
 </div>
